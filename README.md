@@ -6,6 +6,16 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: A Developer is a Key of Programming 😃
 
+
+💻 Tech Stack
+HTML5 CSS3 JavaScript TailwindCSS Bootstrap TypeScript React Redux Next.JS NodeJS Three js Chart.js vite MySQL MongoDB Figma
+
+💬 Let's Connect
+
+Telegram : 
+Email : 
+GitHub : 
+
 <!---
 Rahul-2148/Rahul-2148 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
