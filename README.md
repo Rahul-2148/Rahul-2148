@@ -12,9 +12,10 @@ HTML5 CSS3 JavaScript TailwindCSS Bootstrap TypeScript React Redux Next.JS NodeJ
 
 💬 Let's Connect
 
-Telegram : 
-Email : 
-GitHub : 
+Telegram : t.me/RAHUL752
+Email : rahulraj21480@gmail.com
+GitHub : https://github.com/Rahul-2148
+instagram: https://www.instagram.com/rahulrajmodi.48?igsh=eXlqOHE5bjhlY3Ny
 
 <!---
 Rahul-2148/Rahul-2148 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
