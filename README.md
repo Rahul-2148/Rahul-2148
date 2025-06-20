@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding & Programming
 - 🌱 I’m currently learning in Bachelor Of Technology In Computer Science & Engineering 
 - 💞️ I’m looking to collaborate on Teamwork, Leadership.
-- 📫 How to reach me : Email - rahulrajmodi24523@gmail.com
+- 📫 How to reach me : Email - rahulraj21480@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: A Developer is a Key of Programming 😃
 
