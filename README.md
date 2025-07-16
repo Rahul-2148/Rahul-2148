@@ -2,7 +2,7 @@
 - 🚀 I passout from NSHM Knowledge Campus, Durgapur (MAKAUT UNIVERSITY, Kolkata) at the Branch CSE, B.Tech (Bachelor of Technology in Computer Science & Engineering).
 - 🔥 I had done my B.Tech from August 2021-June 2025 session
 - 👀 I’m interested in Coding & Programming
-- 🌱 I’m currently learning in Bachelor Of Technology In Computer Science & Engineering 
+- 🌱 I have strong foundation in HTML, CSS, JAVASCRIPT, REACT, Node.Js, Express.js, MongoDB, PYTHON, PANDAS, NUMPY, Microsoft Office, Management skills.
 - 💞️ I’m looking to collaborate on Teamwork, Leadership.
 - 📫 How to reach me : Email - rahulraj21480@gmail.com
 - 😄 Pronouns: ...
