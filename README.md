@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rahul Raj , I passout B.Tech (Bachelor of Technology in Computer Science & Engineering) from NSHM Knowledge Campus, Durgapur (MAKAUT UNIVERSITY, Kolkata)
+- 👋 Hi, I’m Rahul Raj , I passout from NSHM Knowledge Campus, Durgapur (MAKAUT UNIVERSITY, Kolkata) at the Branch CSE, B.Tech (Bachelor of Technology in Computer Science & Engineering).
 - 🔥 I had done my B.Tech from August 2021-June 2025 session
 - 👀 I’m interested in Coding & Programming
 - 🌱 I’m currently learning in Bachelor Of Technology In Computer Science & Engineering 
