@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rahul Raj , I am currently a 4th year final year passionate B.Tech CSE Student
+- 👋 Hi, I’m Rahul Raj , I passout B.Tech (Bachelor of Technology in Computer Science & Engineering) from NSHM Knowledge Campus, Durgapur (MAKAUT UNIVERSITY, Kolkata)
 - 👀 I’m interested in Coding & Programming
 - 🌱 I’m currently learning in Bachelor Of Technology In Computer Science & Engineering 
 - 💞️ I’m looking to collaborate on Teamwork, Leadership.
