@@ -19,9 +19,9 @@
 ---
 
 ## 🚀 About Me
-- 🎓 B.Tech CSE Graduate from **NSHM Knowledge Campus (MAKAUT University)**  
+- 🎓 B.Tech CSE Graduate from **NSHM Knowledge Campus (MAKAUT University) with 8 CGPA**  
 - 🔥 Passionate about **Web Development, Backend Systems & Problem Solving**  
-- 💻 Skilled in **MERN Stack, Python Libraries, and UI/UX tools**  
+- 💻 Skilled in **MERN Stack, Python Libraries, and UI/UX tools And also in Core field manufacturing, production, quality, NPD, maintenance, 5S (5 sigma rule) etc.**  
 - 🤝 I enjoy working in **team environments, leadership roles & collaborative projects**  
 - 📬 Reach me: **rahulraj21480@gmail.com**
 
