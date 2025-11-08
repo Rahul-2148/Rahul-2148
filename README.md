@@ -28,7 +28,6 @@
 ---
 
 # ⚡ Tech Stack & Tools  
-### ✅ **Clickable Icons (All now clickable links!)**
 
 ### **Frontend**
 <p align="left">
