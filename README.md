@@ -24,6 +24,7 @@
 - 💻 Skilled in **MERN Stack, Python Libraries, and UI/UX tools And also in Core field manufacturing, production, quality, NPD, maintenance, 5S (5 sigma rule) etc.**  
 - 🤝 I enjoy working in **team environments, leadership roles & collaborative projects**  
 - 📬 Reach me: **rahulraj21480@gmail.com**
+- ✅ LinkedIn: **https://www.linkedin.com/in/rahul-raj-11a946224**
 
 ---
 
