@@ -1,25 +1,26 @@
-- 👋 Hi, I’m Rahul Raj
-- 🚀 I passout from NSHM Knowledge Campus, Durgapur (MAKAUT UNIVERSITY, Kolkata) at the Branch CSE, B.Tech (Bachelor of Technology in Computer Science & Engineering).
-- 🔥 I had done my B.Tech from August 2021-June 2025 session
-- 👀 I’m interested in Coding & Programming
-- 🌱 I have strong foundation in HTML, CSS, JAVASCRIPT, REACT, Node.Js, Express.js, MongoDB, PYTHON, PANDAS, NUMPY, Microsoft Office, Management skills.
-- 💞️ I’m looking to collaborate on Teamwork, Leadership.
-- 📫 How to reach me : Email - rahulraj21480@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: A Developer is a Key of Programming 😃
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&width=700&lines=Hi+👋,+I'm+Rahul+Raj;Full+Stack+Developer+%7C+MERN+%7C+Python;Passionate+Coder+%7C+Tech+Enthusiast;Welcome+to+my+GitHub+Profile!🚀" />
+</p>
 
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rahul-2148&style=for-the-badge&color=blue" />
+</p>
 
-💻 Tech Stack
-HTML5 CSS3 JavaScript TailwindCSS Bootstrap TypeScript React Redux Next.JS NodeJS Three js Chart.js vite MySQL MongoDB Figma
+---
 
-💬 Let's Connect
+# 🧑‍💻 **About Me — Terminal Style**
+```bash
+> Rahul_Raj@github~$ whoami
+Developer | MERN Stack | Python | Tech Explorer
 
-Telegram : t.me/RAHUL752
-Email : rahulraj21480@gmail.com
-GitHub : https://github.com/Rahul-2148
-instagram: https://www.instagram.com/rahulrajmodi.48?igsh=eXlqOHE5bjhlY3Ny
+> root@rahul~$ bio
+- 🎓 B.Tech CSE Graduate (MAKAUT University)
+- 💡 Passionate about Web Dev, APIs, Problem Solving
+- 💻 MERN | Python | Next.js | React | TailwindCSS
+- 🤝 Teamwork, Leadership & Project Ownership
+- 🚀 Always learning, building, growing
 
-<!---
-Rahul-2148/Rahul-2148 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> root@rahul~$ motto
+"Code is not just logic — it's an art of thinking."
