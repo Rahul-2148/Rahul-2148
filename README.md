@@ -1,6 +1,6 @@
 <!-- ANIMATED TYPING HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Rahul+Raj;Full+Stack+Developer;ME[...]
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Rahul+Raj;Full+Stack+Developer;MERN+Stack;Python+Enthusiast;Tech+Explorer" alt="Typing SVG" />
 </p>
 
 <!-- PROFILE HEADER -->
