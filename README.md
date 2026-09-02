@@ -1,6 +1,6 @@
 <!-- ANIMATED TYPING HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Rahul+Raj;Full+Stack+Developer;MERN+Developer+%7C+Python+Coder;Tech+Explorer+%7C+Open+Source+Enthusiast;Welcome+to+my+GitHub+Profile!🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Rahul+Raj;Full+Stack+Developer;ME[...]
 </p>
 
 <!-- PROFILE HEADER -->
@@ -55,6 +55,7 @@
 ### **Programming & Tools**
 <p align="left">
   <a href="https://python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" height="45"/></a>
+  <a href="https://cplusplus.com" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" height="45"/></a>
   <a href="https://figma.com" target="_blank"><img src="https://skillicons.dev/icons?i=figma" height="45"/></a>
   <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="45"/></a>
   <a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
@@ -116,4 +117,4 @@
 ---
 
 ## ⚡ Fun Quote
-> **“A Developer is the key to unlocking ideas through code.”** 💻✨
+> **"A Developer is the key to unlocking ideas through code."** 💻✨
