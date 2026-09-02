@@ -50,6 +50,7 @@
   <a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" height="45"/></a>
   <a href="https://mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" height="45"/></a>
   <a href="https://mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" height="45"/></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" height="45"/></a>
 </p>
 
 ### **Programming & Tools**
